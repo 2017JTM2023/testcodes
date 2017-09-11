@@ -1,2 +1,2 @@
 # testcodes
-repository to test the codes
+this repository has been made to store the codes to be tested.
